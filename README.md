@@ -1,2 +1,3 @@
 # my-games-website
-index.html runner-v1-pc.html
+https://runnerpro.github.io/my-games-website/runner-v1-pc.html
+
